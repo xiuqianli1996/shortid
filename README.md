@@ -88,7 +88,8 @@ number < (Math.pow(16, loopCounter + 1 ) );
 ```
 可以简单的分析出版本号小于16占一位，workerId也不建议大于16所以也占一位，短id的其他几位就在一秒内并发数counter和seconds了，至于counter占几位就看并发数是16的几次方了，剩下的就是seconds占的位数
 
-```2018-01-01 00:00:01 1514736000
+```
+2018-01-01 00:00:01 1514736000
 
 2018-12-31 23:59:59 1546271999
 
@@ -100,7 +101,8 @@ number < (Math.pow(16, loopCounter + 1 ) );
 str = str + lookup( ( (number >> (4 * loopCounter)) & 0x0f ) | randomByte() );
 这里用到了位运算，将number右移4 * loopCounter位之后和0x0f做与运算，保证最后的结果小于16。接下来做一个验证：
 
-```def encode(lookup, number):
+```
+def encode(lookup, number):
     done = False
     loop_counter = 0
     result = []

@@ -57,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="988">
-                <caret line="273" lean-forward="true" selection-start-line="273" selection-end-line="273" />
+              <first_editor relative-caret-position="-190">
+                <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
               </first_editor>
               <second_editor />
             </state>
@@ -100,7 +100,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="267" />
     <option name="y" value="-21" />
     <option name="width" value="1400" />
@@ -298,7 +298,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30106384" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -454,8 +454,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="988">
-            <caret line="273" lean-forward="true" selection-start-line="273" selection-end-line="273" />
+          <first_editor relative-caret-position="-190">
+            <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
           </first_editor>
           <second_editor />
         </state>
