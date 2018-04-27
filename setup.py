@@ -5,7 +5,7 @@ except:
 
 __version__ = '0.0.1'
 
-with open('README.md') as fp:
+with open('README.md', encoding='utf-8') as fp:
     long_description = fp.read()
 
 setup(
